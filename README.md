@@ -43,3 +43,6 @@ git pull <nome> <nome-da-branch>
 git fetch
 -atualiza o novo historico local de acordo com o historico salvo la no repositorio
 -sincronização do local com o remoto
+
+git remote -v <config-do-GitHub-dentro-da-maquina>
+-mostra o link do repositório do GitHub que está conectado ao seu projeto local
